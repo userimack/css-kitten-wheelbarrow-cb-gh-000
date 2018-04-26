@@ -39,7 +39,7 @@
 
 /*__write_selector_here__*/
 img {
-  content: attr()
+  content: attr("Kitty 5")
   position: absolute;
   z-index: 3;
   top: 217px;
