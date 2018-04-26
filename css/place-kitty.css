@@ -37,7 +37,6 @@
 
 /* Select the image that has an attribute value matching "Kitty 5" (using attribute selector) */
 
-/*__write_selector_here__*/
 img {
   content: attr("Kitty 5");
   position: absolute;
